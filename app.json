@@ -1,14 +1,13 @@
 {
   "expo": {
-    "name": "PruebaTecnicaNeftali",  
-    "slug": "prueba-tecnica-neftali", 
+    "name": "PruebaTecnicaNeftali",
+    "slug": "prueba-tecnica-neftali",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash.png",  
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -20,14 +19,14 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.nefta11.PruebaTecnicaNeftali"  
+      "package": "com.nefta11.PruebaTecnicaNeftali"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "508e9180-2b79-40a5-b25f-e6f2fe1232b3"
+        "projectId": "7c303bfa-dab1-4236-b54e-bcbc1f684625"
       }
     }
   }
