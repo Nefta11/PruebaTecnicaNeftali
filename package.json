@@ -1,5 +1,5 @@
 {
-  "name": "pruebatecnicaneftali",
+  "name": "prueba-tecnica-neftali",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,11 @@
     "@react-navigation/native-stack": "^7.1.0",
     "@react-navigation/stack": "^7.0.5",
     "axios": "^1.7.7",
-    "expo": "~52.0.9",
+    "expo": "^49.0.0",
     "expo-linear-gradient": "^14.0.1",
     "expo-status-bar": "~2.0.0",
     "moti": "^0.29.0",
+    "prueba-tecnica-neftali": "file:",
     "pruebatecnicaneftali": "file:",
     "react": "18.3.1",
     "react-native": "0.76.2"
